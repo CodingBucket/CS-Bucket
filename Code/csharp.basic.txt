@@ -1,0 +1,114 @@
+# Types:
+  Value Types - int, float, double, structs, enums etc.
+  Reference Types - Interface, Class, delegates, array etc.
+
+# Implicit conversion:
+  Implicit conversion is done by the compiler
+  where there is no loss of informationif the conversion is done.
+  If there is no possibility of throwing exceptions during the conversion.
+  
+# Explicit conversion:
+  When converting a float to an int, we loose the fractional part and also a possibility of 
+  overflow exception. Hence, in this case an explicit conversion is required. For explicit
+  conversion we can use cast operator or the convert class in c#.
+  
+# Static Constructor:
+  Static constructor are used to initialize static fields in a class. 
+  Static constructor is called only once, no metter how many instances you create.
+  Static constructor is called before the instance constructor.
+  
+# Pillars of Object Oriented Programming:
+  1. Inheritance.
+  2. Encapsulation.
+  3. Abstraction.
+  4. Polymorphism.
+  
+# Polymorphism:
+  Polymorphism allows you to invoke derived class methods through a base class reference during runtime.
+  In the base class the method is declared as virtual, and in the derived class we override the same method.
+  The virtual keyword indicates, the method can be overridden in any derived class.
+  
+# Method Overriding:
+  In method overriding a base class reference variable pointing to a child class object,
+  will invoke the overridden method in the child class.
+  It is also called Polymorphism.
+
+# Method Hidding:
+  In method overriding a base class reference variable pointing to a child class object,
+  will invoke the hidden  method in the base class.
+  
+# Method Overloadnig:
+  Method overloading allows a class to have multiple methods with the same name, 
+  but differnet types and numbers of paramenter. It is not possiable to overload a function
+  based on the return type of a method.	
+  
+# Auto Implemented Properties:
+  If there is no editional logic in the property accessors, then we can make use of auto-implemneted properties introduced in C# 3.0
+  Auto-impplemented properties reduce the amount of code that we have to write. When you use auto-implemented properties, 
+  the complier creates a private, anonymous field that can only accessed through the property's get and set accessors.
+  
+# Structs:
+  Structs are very similar to classes. We use struct keyword to create a struct.
+  Just like classes structs can have fields, properties, constructors and methods.
+  
+# Class Vs Struct:
+  => A struct is a value type where as a class is a reference typess.
+  => Structs are stored on stack, where as classes are strored on heap.
+  => Value type are destroyed immediately after the scope is lost, where as for reference types only
+  => the reference variable is destroyed after the scope is lost. The object is later destroyed by garbage
+     collector.
+  => When you copy a struct into another struct, a new copy of that struct gets created and modifications on one 
+     struct will not affect the values contained by the other struct.
+  => When you copy a class into another class, we only get a copy of the reference variable. Both the reference
+     variables point to the same object on the heap. So, operations on one variable will affect the values 
+     contained by the other reference variable.
+  => Structs cant have destructor, but classes can have destructor.
+  => Structs cannot have explicit parameter less constructor where as a class can.
+  => Struct cant inherit from another class where as a class can,Both structs and class
+     can inherit from an interface.
+  => Example of structs in the .NET Framework - int (System.Int32), double (System.double) etc.
+  => A class or a struct cannot inherit from another class from being struct. Structs are sealed types.
+  
+# Interface:
+  => We create interface using interface keyword. Just like classes interfaces also contains properties,
+     methods, delegates or event, but only declarations and no implementations.
+  => Interface members are public by default, and they dont allow explicit access modifiers.
+  => If a strucs or a class inherits from a interface, it must provide implementation for all interface methods.
+  => We can not create an instance of an interface, but an interface reference variable can point to a derived
+     class object.
+     
+# Abstract Class:
+  => The abstract keyword is used to create abstract classes.
+  => An abstract class is incomplete and hence cannot be instantiated.
+  => An abstract class can only be used as base class.
+  => An abstract class cannot be sealed.
+  => An abstract class may contain abstract members, but not mandatory.
+  => A non-abstract class derived from an abstract class must provide implementations for 
+     inherided abstract members.
+
+# Abstract Class VS Interface:
+  => Abstract class can have implementation for some of its members,but the interface
+     cant have implementation for any of its members.
+  => Interface cannot have fields where as an abstract class can have fields.
+  => An interface can inherit from another interface only,where as an abstract class
+     can inherit from abstract class or interface.
+  => Abstract class members can have access modifiers where as interface member can
+     not have access modifier.
+     
+# Multiple Class Inheritance Problem:
+  1. Class B and Class C inherit from class A.
+  2. Class D inherits from both B and C.
+  3. If a method in D call a method defined in A(and does not override the method), and B and C
+     have overridden that method that differently, then from which class does it inherit: B, or C?
+  => This ambiguity is called as Diamond problem.
+  
+# Delegate:
+  => A delegate is a type safe function pointer. It holds a reference of a function.
+  => The signature of the delegate must match the signature of the function, the delegate
+     points to, otherwise you get a complier error.This is the reason delegates are called as type
+     safe function pointers.
+  => A delegate is similar to a class.You can create an instance of it,and when you do so,you pass
+     the function name as a parameter to the delegate constructor, and it is the function the delegate
+     will call.
+  => Delegates syntax look very much similar to a method with a delegate keyword.
+
