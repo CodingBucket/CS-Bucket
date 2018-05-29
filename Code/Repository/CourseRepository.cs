@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // Quries.Persistence.Repositories
 namespace ConsoleApp.Repository
 {
-    public class CourceRepository: Repository<Course>, IRepository
+    public class CourseRepository: Repository<Course>, IRepository
     {
         public CourceRepository(PlutoContext context): base(context)
         {
