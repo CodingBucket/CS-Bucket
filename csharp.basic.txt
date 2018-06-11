@@ -78,6 +78,7 @@
      class object.
      
 # Abstract Class:
+  => An abstract class cannot be instantiated.
   => The abstract keyword is used to create abstract classes.
   => An abstract class is incomplete and hence cannot be instantiated.
   => An abstract class can only be used as base class.
