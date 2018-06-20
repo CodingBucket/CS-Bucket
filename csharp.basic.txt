@@ -3,8 +3,7 @@
   Reference Types - Interface, Class, delegates, array etc.
 
 # Implicit conversion:
-  Implicit conversion is done by the compiler
-  where there is no loss of informationif the conversion is done.
+  Implicit conversion is done by the compiler where there is no loss of informationif the conversion is done.
   If there is no possibility of throwing exceptions during the conversion.
   
 # Explicit conversion:
@@ -70,7 +69,7 @@
   => A class or a struct cannot inherit from another class from being struct. Structs are sealed types.
   
 # Interface:
-  => We create interface using interface keyword. Just like classes interfaces also contains properties,
+  => We create interface using interface keyword. Just like classes interfaces also contains,
      methods, delegates or event, but only declarations and no implementations.
   => Interface members are public by default, and they dont allow explicit access modifiers.
   => If a strucs or a class inherits from a interface, it must provide implementation for all interface methods.
