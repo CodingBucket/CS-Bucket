@@ -27,20 +27,25 @@ https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
 https://www.youtube.com/user/manzooratmakvin/playlists
 
 -----------------------------------------------------
- >> .NET
+ >> ASP.NET
 -----------------------------------------------------
-
-=> Entity Framework Tutorials - Programming with Mosh - 2
-https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ
-
-=> ASP.NET Core - Beginner By coderschool - s
+=> ASP.NET Core beginner - coderschool - s
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
-=> ASP.NET Core - Intermediate By coderschool
+=> ASP.NET Core intermediate - coderschool
 https://www.youtube.com/watch?v=O5tBP7tKen8
 
-=> ASP.NET Core - Advance By coderschool
+=> ASP.NET Core advance - coderschool
 https://www.youtube.com/watch?v=EoblsL3vs90
+
+=> ASP.NET Core1 - Programming - 56
+https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
+
+-----------------------------------------------------
+ >> Entity Framework
+-----------------------------------------------------
+=> Entity Framework Tutorials - Programming with Mosh - 2
+https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ
 
 => Entity Framework (Bangla) - Foyzul Karim - 13
 https://www.youtube.com/watch?v=Sa6glbT8lTw&list=PLEYpvDF6qy8ZEhmbi7m81b-SWwwe0MeQ6
