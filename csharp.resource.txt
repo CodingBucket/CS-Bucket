@@ -41,6 +41,9 @@ https://www.youtube.com/watch?v=EoblsL3vs90
 => ASP.NET Core1 - Programming - 56
 https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
 
+=> IdentityServer for ASP.NET Core - coderschool - 2h
+https://www.youtube.com/watch?v=J5p72gTdx_M
+
 -----------------------------------------------------
  >> Entity Framework
 -----------------------------------------------------
