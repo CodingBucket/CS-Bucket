@@ -29,6 +29,8 @@ https://www.youtube.com/user/manzooratmakvin/playlists
 -----------------------------------------------------
  # ASP.NET Core
 -----------------------------------------------------
+https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
+
 => ASP.NET Core beginner - coderschool - s
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
