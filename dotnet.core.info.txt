@@ -1,0 +1,4 @@
+cmd: dotnet
+cmd: where dotnet
+cmd: dotnet --version
+cmd: dotnet --help
