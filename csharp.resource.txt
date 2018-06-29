@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
 https://www.youtube.com/user/manzooratmakvin/playlists
 
 -----------------------------------------------------
- >> ASP.NET
+ # ASP.NET Core
 -----------------------------------------------------
 => ASP.NET Core beginner - coderschool - s
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQ
 https://www.youtube.com/watch?v=J5p72gTdx_M
 
 -----------------------------------------------------
- >> Entity Framework
+ # Entity Framework
 -----------------------------------------------------
 => Entity Framework Tutorials - Programming with Mosh - 2
 https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ
@@ -63,8 +63,7 @@ https://www.youtube.com/watch?v=puwWeXxQSmk&list=PLZmfj7vJb0aGGGjhVpAZ-IkbguYoNG
 https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx
 
 -----------------------------------------------------
- >> Others
+ # Others
 -----------------------------------------------------
-
 => HTML and CSS for Beginners
 https://www.youtube.com/watch?v=4uRN0-XOOJ0&list=PLlMOodDAsO4xpUe-leQ9U9XUXucAHyl49
