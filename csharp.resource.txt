@@ -46,6 +46,15 @@ https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQ
 => IdentityServer for ASP.NET Core - coderschool - 2h
 https://www.youtube.com/watch?v=J5p72gTdx_M
 
+=> .NET Core2 API - coderschool - 1h
+https://www.youtube.com/watch?v=aIkpVzqLuhA
+
+=> Securing your web applications with ASP.NET Core 2.0 - Microsoft Visual Studio - 48m
+https://www.youtube.com/watch?v=WoseLEA3scI
+
+=> Building Secure Web APIs with ASP.NET Core - Microsoft Visual Studio -49m
+https://www.youtube.com/watch?v=e2qZvabmSvo
+
 -----------------------------------------------------
  # Entity Framework
 -----------------------------------------------------
