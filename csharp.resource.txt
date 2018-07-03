@@ -30,6 +30,7 @@ https://www.youtube.com/user/manzooratmakvin/playlists
  # ASP.NET Core
 -----------------------------------------------------
 https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
+https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
 
 => ASP.NET Core beginner - coderschool - s1
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
@@ -52,9 +53,6 @@ https://www.youtube.com/watch?v=aIkpVzqLuhA
 => Securing your web applications with ASP.NET Core 2.0 - Microsoft Visual Studio - 48m
 https://www.youtube.com/watch?v=WoseLEA3scI
 
-=> Building Secure Web APIs with ASP.NET Core - Microsoft Visual Studio -49m
-https://www.youtube.com/watch?v=e2qZvabmSvo
-
 -----------------------------------------------------
  # Entity Framework
 -----------------------------------------------------
@@ -75,6 +73,15 @@ https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6z
 
 => Top 10 Entity Framework Features - Microsoft Visual Studio - 56m
 https://www.youtube.com/watch?v=4kgILKQuGjk
+
+-----------------------------------------------------
+ # Basic
+-----------------------------------------------------
+=> Dependency Injection - Microsoft Visual Studi - 45m
+https://www.youtube.com/watch?v=QtDTfn8YxXg
+
+=> SOLID - Microsoft Visual Studi - 57m
+https://www.youtube.com/watch?v=agkWYPUcLpg
 
 -----------------------------------------------------
  # Others
