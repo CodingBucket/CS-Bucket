@@ -31,10 +31,10 @@ https://www.youtube.com/user/manzooratmakvin/playlists
 -----------------------------------------------------
 https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
 
-=> ASP.NET Core beginner - coderschool - s
+=> ASP.NET Core beginner - coderschool - s1
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
-=> ASP.NET Core intermediate - coderschool
+=> ASP.NET Core intermediate - coderschool - 4h
 https://www.youtube.com/watch?v=O5tBP7tKen8
 
 => ASP.NET Core advance - coderschool
@@ -72,6 +72,9 @@ https://www.youtube.com/watch?v=puwWeXxQSmk&list=PLZmfj7vJb0aGGGjhVpAZ-IkbguYoNG
 
 => Entity Framework tutorial - kudvenkat - 25
 https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx
+
+=> Top 10 Entity Framework Features - Microsoft Visual Studio - 56m
+https://www.youtube.com/watch?v=4kgILKQuGjk
 
 -----------------------------------------------------
  # Others
