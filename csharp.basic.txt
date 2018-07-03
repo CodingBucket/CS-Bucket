@@ -121,6 +121,3 @@ in-memory collection of domain objects.
   => Decouple your application from persistence frameworks
   => Promotes testability
 
-# Unit of Work:
-Maintains a list of objects affected by a business transaction and 
-coordinates the writing out of changes.
