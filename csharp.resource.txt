@@ -53,6 +53,9 @@ https://www.youtube.com/watch?v=aIkpVzqLuhA
 => Securing your web applications with ASP.NET Core 2.0 - Microsoft Visual Studio - 48m
 https://www.youtube.com/watch?v=WoseLEA3scI
 
+=> ASP.NET Core 2.0 Security - Microsoft Visual Studio - 55m
+https://www.youtube.com/watch?v=6LzmEOvzt1A
+
 -----------------------------------------------------
  # Entity Framework
 -----------------------------------------------------
