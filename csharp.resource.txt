@@ -50,9 +50,6 @@ https://www.youtube.com/watch?v=J5p72gTdx_M
 => .NET Core2 API - coderschool - 1h
 https://www.youtube.com/watch?v=aIkpVzqLuhA
 
-=> ASP.NET Core 2.0 Security - Microsoft Visual Studio - 55m
-https://www.youtube.com/watch?v=6LzmEOvzt1A
-
 -----------------------------------------------------
  # Entity Framework
 -----------------------------------------------------
