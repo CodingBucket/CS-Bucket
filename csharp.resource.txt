@@ -5,13 +5,13 @@
 => https://www.tutorialspoint.com/csharp/index.htm
 => https://www.javatpoint.com/c-sharp-tutorial
 
-=> C# Fundamentals for Absolute Beginners - coderschool - 8h - s
+=> C# Fundamentals for Absolute Beginners - coderschool - 8h - S
 https://www.youtube.com/watch?v=nRjHGKaJY8M 
 
-=> C# Basics for Beginners Series - AvetisG Programming - 51 - s
+=> C# Basics for Beginners Series - AvetisG Programming - 51 - S
 https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_sumeqIEYJ5GWZqd
 
-=> C#.NET Tutorials - Programming with Mosh - 11 - s
+=> C#.NET Tutorials - Programming with Mosh - 11 - S
 https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
 
 => c# interview questions and answers - kudvenkat - 14
@@ -26,13 +26,22 @@ https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
 => C#, .NET, EF, SQL, JS - ManzoorTheTrainer
 https://www.youtube.com/user/manzooratmakvin/playlists
 
+=> The C# async await Workout - MVS - 50m
+https://www.youtube.com/watch?v=eV45ZgXU1Mk
+
+=> Brandon Minnick - async/await best practices - 27m
+https://www.youtube.com/watch?v=My2gAv5Vrkk
+
+=> Advanced C# - Advenced C - 7 
+https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2CtW2Q
+
 -----------------------------------------------------
  # ASP.NET Core
 -----------------------------------------------------
 https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
 https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
 
-=> ASP.NET Core beginner - coderschool - s1
+=> ASP.NET Core beginner - coderschool - S1
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
 => ASP.NET Core intermediate - coderschool - 4h
@@ -47,8 +56,65 @@ https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQ
 => IdentityServer for ASP.NET Core - coderschool - 2h
 https://www.youtube.com/watch?v=J5p72gTdx_M
 
-=> .NET Core2 API - coderschool - 1h
+=> .NET Core2 API - coderschool - 1h - S
 https://www.youtube.com/watch?v=aIkpVzqLuhA
+
+=> ASP.NET Core Full-Stack Architecture - Wes Doyle - 4
+https://www.youtube.com/watch?v=-09ajA4rOKU&list=PL3_YUnRN3Uhj3FpO6XM_2f5fIFIKnK8RO
+
+=> ASP.NET Core – deep dive on building a real website with today’s bits - Microsoft Visual Studio - 55m
+https://www.youtube.com/watch?v=ypt2u9SIK4w
+
+=> .NET Core microservices on Service Fabric - Microsoft Visual Studio - 43m
+https://www.youtube.com/watch?v=T8icxUqQM8A
+
+=> Angular and .NET Core - Microsoft Visual Studio - 37m
+https://www.youtube.com/watch?v=TbJSABCCtt8
+
+=> Getting Started with Angular and ASP.NET Core 2.0 - Jason Taylor - 26m
+https://www.youtube.com/watch?v=AKkoT0UnUn0
+
+=> Getting Started with ASP.NET Core in Visual Studio 2017 (Web 101) - MVS - 57m
+https://www.youtube.com/watch?v=yDp-sHGKTWo
+
+-----------------------------------------------------
+ # Basic
+-----------------------------------------------------
+=> Dependency Injection - MVS - 45m
+https://www.youtube.com/watch?v=QtDTfn8YxXg
+
+-----------------------------------------------------
+ # Design Patterns
+-----------------------------------------------------
+=> Solid Design Patterns for Mere Mortals - MVS - 53m
+https://www.youtube.com/watch?v=_vlMjdFxdng
+
+=> SOLID Design Patterns - MVS - 57m
+https://www.youtube.com/watch?v=agkWYPUcLpg
+
+=> Design Patterns: Singleton - MVS - 16m
+https://www.youtube.com/watch?v=sbML3xFHRbI
+
+=> Design Patterns: Factories - MVS - 25m
+https://www.youtube.com/watch?v=JEk7B_GUErc
+
+=> Design Patterns: Decorator - MVS - 17m
+https://www.youtube.com/watch?v=6PPMR0GWrZQ
+
+=> Design Patterns: Observer and Publish-Subscribe - MVS - 18m
+https://www.youtube.com/watch?v=72bdaDl4KLM
+
+=> Design Patterns: Command/Memento - MVS - 31m
+https://www.youtube.com/watch?v=zRbHlDeon3E
+
+=> Design Patterns: Strategy - MVS - 13m
+https://www.youtube.com/watch?v=QZIvlny1Onk
+
+=> Design Patterns: Adapter and Façade - MVS - 22m
+https://www.youtube.com/watch?v=XYa0rmRMZ1Q
+
+=> Design Patterns: Template Method - MVS - 14m
+https://www.youtube.com/watch?v=MfAvs0n9uMs
 
 -----------------------------------------------------
  # Entity Framework
@@ -71,14 +137,8 @@ https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6z
 => Top 10 Entity Framework Features - Microsoft Visual Studio - 56m
 https://www.youtube.com/watch?v=4kgILKQuGjk
 
------------------------------------------------------
- # Basic
------------------------------------------------------
-=> Dependency Injection - Microsoft Visual Studi - 45m
-https://www.youtube.com/watch?v=QtDTfn8YxXg
-
-=> SOLID - Microsoft Visual Studi - 57m
-https://www.youtube.com/watch?v=agkWYPUcLpg
+=> What's New in Entity Framework Core 2.0 - MVS - 53m
+https://www.youtube.com/watch?v=0pUVC3trvHc
 
 -----------------------------------------------------
  # Others
