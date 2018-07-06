@@ -53,35 +53,35 @@ https://www.youtube.com/watch?v=EoblsL3vs90
 => ASP.NET Core1 - Programming - 56
 https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
 
-=> IdentityServer for ASP.NET Core - coderschool - 2h
-https://www.youtube.com/watch?v=J5p72gTdx_M
-
 => .NET Core2 API - coderschool - 1h - S
 https://www.youtube.com/watch?v=aIkpVzqLuhA
 
 => ASP.NET Core Full-Stack Architecture - Wes Doyle - 4
 https://www.youtube.com/watch?v=-09ajA4rOKU&list=PL3_YUnRN3Uhj3FpO6XM_2f5fIFIKnK8RO
 
-=> ASP.NET Core – deep dive on building a real website with today’s bits - Microsoft Visual Studio - 55m
+=> ASP.NET Core – deep dive on building a real website with today’s bits - MVS - 55m
 https://www.youtube.com/watch?v=ypt2u9SIK4w
-
-=> .NET Core microservices on Service Fabric - Microsoft Visual Studio - 43m
-https://www.youtube.com/watch?v=T8icxUqQM8A
-
-=> Angular and .NET Core - Microsoft Visual Studio - 37m
-https://www.youtube.com/watch?v=TbJSABCCtt8
-
-=> Getting Started with Angular and ASP.NET Core 2.0 - Jason Taylor - 26m
-https://www.youtube.com/watch?v=AKkoT0UnUn0
 
 => Getting Started with ASP.NET Core in Visual Studio 2017 (Web 101) - MVS - 57m
 https://www.youtube.com/watch?v=yDp-sHGKTWo
 
 -----------------------------------------------------
- # Basic
+ # .NET Basic & Architecture
 -----------------------------------------------------
+=> IdentityServer for ASP.NET Core - coderschool - 2h
+https://www.youtube.com/watch?v=J5p72gTdx_M
+
 => Dependency Injection - MVS - 45m
 https://www.youtube.com/watch?v=QtDTfn8YxXg
+
+=> Microservice architecture with ASP.NET Core - MVS - 27m
+https://www.youtube.com/watch?v=2ooo-igyTrs
+
+=> Introduction to Microservices - MVS - 13m
+https://www.youtube.com/watch?v=EEwT6y5h09I
+
+=> SignalR .NET Core: Realtime cross-platform open web communication - MVS - 1h
+https://www.youtube.com/watch?v=1TrttIkbs6c
 
 -----------------------------------------------------
  # Design Patterns
@@ -91,6 +91,9 @@ https://www.youtube.com/watch?v=_vlMjdFxdng
 
 => SOLID Design Patterns - MVS - 57m
 https://www.youtube.com/watch?v=agkWYPUcLpg
+
+=> Solid Design Principles - kudvenkat - 6
+https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme
 
 => Design Patterns: Singleton - MVS - 16m
 https://www.youtube.com/watch?v=sbML3xFHRbI
@@ -116,6 +119,9 @@ https://www.youtube.com/watch?v=XYa0rmRMZ1Q
 => Design Patterns: Template Method - MVS - 14m
 https://www.youtube.com/watch?v=MfAvs0n9uMs
 
+=> Design Patterns tutorial for beginners - kudvenkat - 21
+https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd
+
 -----------------------------------------------------
  # Entity Framework
 -----------------------------------------------------
@@ -134,14 +140,10 @@ https://www.youtube.com/watch?v=puwWeXxQSmk&list=PLZmfj7vJb0aGGGjhVpAZ-IkbguYoNG
 => Entity Framework tutorial - kudvenkat - 25
 https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx
 
-=> Top 10 Entity Framework Features - Microsoft Visual Studio - 56m
+=> Top 10 Entity Framework Features - MVS - 56m
 https://www.youtube.com/watch?v=4kgILKQuGjk
 
 => What's New in Entity Framework Core 2.0 - MVS - 53m
 https://www.youtube.com/watch?v=0pUVC3trvHc
 
------------------------------------------------------
- # Others
------------------------------------------------------
-=> HTML and CSS for Beginners
-https://www.youtube.com/watch?v=4uRN0-XOOJ0&list=PLlMOodDAsO4xpUe-leQ9U9XUXucAHyl49
+
