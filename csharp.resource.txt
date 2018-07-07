@@ -41,29 +41,20 @@ https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2Ct
 https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
 https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
 
-=> ASP.NET Core beginner - coderschool - S1
+=> .NET Core2 API - coderschool - 1h - S
+https://www.youtube.com/watch?v=aIkpVzqLuhA
+
+=> ASP.NET Core beginner - coderschool - 2.4h - S1
 https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
-=> ASP.NET Core intermediate - coderschool - 4h
+=> ASP.NET Core intermediate - coderschool - 4h - S
 https://www.youtube.com/watch?v=O5tBP7tKen8
 
-=> ASP.NET Core advance - coderschool
+=> ASP.NET Core advance - coderschool - 1.44h - S
 https://www.youtube.com/watch?v=EoblsL3vs90
 
 => ASP.NET Core1 - Programming - 56
 https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
-
-=> .NET Core2 API - coderschool - 1h - S
-https://www.youtube.com/watch?v=aIkpVzqLuhA
-
-=> ASP.NET Core Full-Stack Architecture - Wes Doyle - 4
-https://www.youtube.com/watch?v=-09ajA4rOKU&list=PL3_YUnRN3Uhj3FpO6XM_2f5fIFIKnK8RO
-
-=> ASP.NET Core – deep dive on building a real website with today’s bits - MVS - 55m
-https://www.youtube.com/watch?v=ypt2u9SIK4w
-
-=> Getting Started with ASP.NET Core in Visual Studio 2017 (Web 101) - MVS - 57m
-https://www.youtube.com/watch?v=yDp-sHGKTWo
 
 -----------------------------------------------------
  # .NET Basic & Architecture

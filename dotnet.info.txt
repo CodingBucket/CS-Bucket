@@ -1,4 +1,29 @@
-cmd: dotnet
-cmd: where dotnet
-cmd: dotnet --version
-cmd: dotnet --help
+------------------------------
+ => .NET Core commands
+------------------------------
+cmd: where dotnet [Show dotnet location]
+
+cmd: dotnet --version [Show dotnet version]
+
+cmd: dotnet --help 
+
+cmd: dotnet new webapi [Create SPA with .net core]
+
+cmd: dotnet new -i identityserver4.templates
+
+cmd: dotnet add package Microsoft.EntityFrameworkCore --version 2.1.0
+
+cmd: dotnet add package IdentityServer4 --version 2.2.0 [Install IdentityServer4]
+
+cmd: dotnet ef
+
+cmd: dotnet watch run
+
+------------------------------
+ => Create Core2 Angular SPA
+------------------------------
+cmd: dotnet new angular -o new-app-name [Create Core2 Angular SPA]
+
+cmd: cd ClientApp 
+
+cmd: npm install --save [Install dipendency]
