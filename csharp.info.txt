@@ -1,6 +1,6 @@
 # Repository:
-Mediates between the domain and data mapping layers, acting like an 
-in-memory collection of domain objects.
+  Mediates between the domain and data mapping layers, acting like an 
+  in-memory collection of domain objects.
 
 # Benefits of Repository:
   => Minimizes duplicate query logic
@@ -8,5 +8,18 @@ in-memory collection of domain objects.
   => Promotes testability
 
 # Unit of Work:
-Maintains a list of objects affected by a business transaction and 
-coordinates the writing out of changes.
+  Maintains a list of objects affected by a business transaction and 
+  coordinates the writing out of changes.
+
+# Pattern of using Async method:
+  => Use the await keyword before the method call.
+  => Mark the method signature with async.
+  => Return Task or Task<T>
+  => MoreInfo: http://bit.do/async-diagram
+
+# Blocking:
+  When the thread is busy doing staff or waiting on staff.
+  There are two type of blocking:
+  1. CPU bound blocking
+  2. IO bound blocking.
+

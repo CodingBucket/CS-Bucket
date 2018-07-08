@@ -14,23 +14,11 @@ https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_sumeqIEYJ5GW
 => C#.NET Tutorials - Programming with Mosh - 11 - S
 https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
 
-=> c# interview questions and answers - kudvenkat - 14
-https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
-
 => C# tutorial - Fox Learn - 294
 https://www.youtube.com/watch?v=yqyXrDp6Id0&list=PL-EU0JUF-XD1saII7gONUxMIbk13XkmCV
 
 => C# tutorial for beginners - kudvenkat - 102
 https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
-
-=> C#, .NET, EF, SQL, JS - ManzoorTheTrainer
-https://www.youtube.com/user/manzooratmakvin/playlists
-
-=> The C# async await Workout - MVS - 50m
-https://www.youtube.com/watch?v=eV45ZgXU1Mk
-
-=> Brandon Minnick - async/await best practices - 27m
-https://www.youtube.com/watch?v=My2gAv5Vrkk
 
 => Advanced C# - Advenced C - 7 
 https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2CtW2Q
@@ -71,7 +59,7 @@ https://www.youtube.com/watch?v=2ooo-igyTrs
 => Introduction to Microservices - MVS - 13m
 https://www.youtube.com/watch?v=EEwT6y5h09I
 
-=> SignalR .NET Core: Realtime cross-platform open web communication - MVS - 1h
+=> SignalR .NET Core: - MVS - 1h
 https://www.youtube.com/watch?v=1TrttIkbs6c
 
 -----------------------------------------------------
@@ -136,5 +124,13 @@ https://www.youtube.com/watch?v=4kgILKQuGjk
 
 => What's New in Entity Framework Core 2.0 - MVS - 53m
 https://www.youtube.com/watch?v=0pUVC3trvHc
+
+-----------------------------------------------------
+ # Interview Preparation
+-----------------------------------------------------
+
+=> c# interview questions and answers - kudvenkat - 14
+https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
+
 
 

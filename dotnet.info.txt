@@ -26,4 +26,4 @@ cmd: dotnet new angular -o new-app-name [Create Core2 Angular SPA]
 
 cmd: cd ClientApp 
 
-cmd: npm install --save [Install dipendency]
+cmd: npm install --save [Install dependency]
