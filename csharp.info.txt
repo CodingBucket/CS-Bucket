@@ -23,3 +23,12 @@
   1. CPU bound blocking
   2. IO bound blocking.
 
+# IEnumerable:
+  If you create an IQueryable, then the query may be converted to sql 
+  and run on the database server 
+
+# IQueryable:
+  If you create an IEnumerable, then all rows will be pulled into 
+  memory as objects before running the query.
+  
+  MoreInfo: https://stackoverflow.com/questions/252785/what-is-the-difference-between-iqueryablet-and-ienumerablet

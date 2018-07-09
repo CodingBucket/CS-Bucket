@@ -1,29 +1,39 @@
 ------------------------------
  => .NET Core commands
 ------------------------------
-cmd: where dotnet [Show dotnet location]
+ cmd: where dotnet [Show dotnet location]
 
-cmd: dotnet --version [Show dotnet version]
+ cmd: dotnet --version [Show dotnet version]
 
-cmd: dotnet --help 
+ cmd: dotnet --help 
 
-cmd: dotnet new webapi [Create SPA with .net core]
+ cmd: dotnet new webapi [Create SPA with .net core]
 
-cmd: dotnet new -i identityserver4.templates
+ cmd: dotnet new -i identityserver4.templates
 
-cmd: dotnet add package Microsoft.EntityFrameworkCore --version 2.1.0
+ cmd: dotnet add package Microsoft.EntityFrameworkCore --version 2.1.0
 
-cmd: dotnet add package IdentityServer4 --version 2.2.0 [Install IdentityServer4]
+ cmd: dotnet add package IdentityServer4 --version 2.2.0 [Install IdentityServer4]
 
-cmd: dotnet ef
+ cmd: dotnet ef
 
-cmd: dotnet watch run
+ cmd: dotnet watch run
 
 ------------------------------
  => Create Core2 Angular SPA
 ------------------------------
-cmd: dotnet new angular -o new-app-name [Create Core2 Angular SPA]
+ cmd: dotnet new angular -o new-app-name [Create Core2 Angular SPA]
 
-cmd: cd ClientApp 
+ cmd: cd ClientApp 
 
-cmd: npm install --save [Install dependency]
+ cmd: npm install --save [Install dependency]
+
+------------------------------
+ => IdentityServer4
+------------------------------
+ http://docs.identityserver.io/en/dev/quickstarts/0_overview.html
+
+ 1. Create a .NET core empty project.
+ 2. Install IdentityServer4 nuget package.
+ 3. Modify Startup.cs file.
+ 4. Modify hosting from project properties.
