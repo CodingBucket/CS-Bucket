@@ -1,6 +1,15 @@
------------------------------------------------------
- >> C#
------------------------------------------------------
+=> PS [UVa-47, HE-11, URI-215, SO-56], DS, AL
+=> C# 50 (LINQ, Lambdas, Func)
+=> ASP.NET Core, EF, SQL, IS4, MCP - OOP, DP, SOLID, SA, SDLC
+ 
+=> SOLID, SignalR, DI(Unity/Autofac/Ninject)
+=> ASP.NET Core API, Entity Framework, Migrations
+=> Unit Test, TDD, OData
+=> JavaScript, Angular
+
+=====================================================
+   C#
+=====================================================
  https://docs.microsoft.com/en-us/dotnet/index
  https://www.tutorialspoint.com/csharp/index.htm
  https://www.javatpoint.com/c-sharp-tutorial
@@ -23,95 +32,126 @@
  => Advanced C# - Advenced C - 7 
  https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2CtW2Q
 
------------------------------------------------------
+=====================================================
  # ASP.NET Core
------------------------------------------------------
- https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
- https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
+=====================================================
+https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
+https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
 
- Building Angular and ASP.NET Core Apps with Authentication - 6/60
+=> Building Angular and ASP.NET Core Apps with Authentication - 6/50
 
- => .NET Core2 API - coderschool - 1h - S
- https://www.youtube.com/watch?v=aIkpVzqLuhA
+=> .NET Core2 API - coderschool - 1h - S
+https://www.youtube.com/watch?v=aIkpVzqLuhA
 
- => ASP.NET Core beginner - coderschool - 2.4h - S1
- https://www.youtube.com/watch?v=xc3Gl4rnWV4
+=> ASP.NET Core beginner - coderschool - 2.4h - S1
+https://www.youtube.com/watch?v=xc3Gl4rnWV4
 
- => ASP.NET Core intermediate - coderschool - 4h - S
- https://www.youtube.com/watch?v=O5tBP7tKen8
+=> ASP.NET Core intermediate - coderschool - 4h - S
+https://www.youtube.com/watch?v=O5tBP7tKen8
 
- => ASP.NET Core advance - coderschool - 1.44h - S
- https://www.youtube.com/watch?v=EoblsL3vs90
+=> ASP.NET Core advance - coderschool - 1.44h - S
+https://www.youtube.com/watch?v=EoblsL3vs90
 
- => ASP.NET Core1 - Programming - 56
- https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
+=> ASP.NET Core1 - Programming - 56
+https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
 
------------------------------------------------------
+=====================================================
  # .NET Basic & Architecture
------------------------------------------------------
- => Dependency Injection - MVS - 45m
- https://www.youtube.com/watch?v=QtDTfn8YxXg
+=====================================================
+=> Dependency Injection - MVS - 45m
+https://www.youtube.com/watch?v=QtDTfn8YxXg
 
- => Microservice architecture with ASP.NET Core - MVS - 27m
- https://www.youtube.com/watch?v=2ooo-igyTrs
+=> Microservice architecture with ASP.NET Core - MVS - 27m
+https://www.youtube.com/watch?v=2ooo-igyTrs
 
- => SignalR .NET Core: - MVS - 1h
- https://www.youtube.com/watch?v=1TrttIkbs6c
+=====================================================
+ # SignalR
+=====================================================
+=> SignalR .NET Core: - MVS - 1h
+https://www.youtube.com/watch?v=1TrttIkbs6c
 
------------------------------------------------------
+=> Consuming SignalR for AspNet Core from Angular - Ajden Towfeek - 20m
+https://www.youtube.com/watch?v=R3UJjSAH6bM
+
+=====================================================
  # IdentityServer
------------------------------------------------------
- http://docs.identityserver.io/en/dev/quickstarts/0_overview.html
- https://github.com/IdentityServer/IdentityServer4.Samples/tree/release/Quickstarts
+=====================================================
+http://docs.identityserver.io/en/dev/quickstarts/0_overview.html
+https://github.com/IdentityServer/IdentityServer4.Samples/tree/release/Quickstarts
 
- => IdentityServer for ASP.NET Core - coderschool - 2h
- https://www.youtube.com/watch?v=J5p72gTdx_M
+=> IdentityServer for ASP.NET Core - coderschool - 2h
+https://www.youtube.com/watch?v=J5p72gTdx_M
 
- => Identity Server 4 - Thumb IKR - Programming Examples - 17m
- https://www.youtube.com/watch?v=h4CQpdQ7L_I
+=> Identity Server 4 - Thumb IKR - Programming Examples - 17m
+https://www.youtube.com/watch?v=h4CQpdQ7L_I
 
------------------------------------------------------
+=> IdentityServer4 T - sunil ravulapalli - 7
+https://www.youtube.com/watch?v=wQaOWc_bwpM&list=PLhh7nkhrgGLBkOddzpaNFQHAZsfnlqTXg
+
+=> Identityserver4 T - NDC Conferences - 10
+https://www.youtube.com/watch?v=X6a9bjNutEw&list=PLBpdDIHvafa-2WHiwRa-Q0YGrN34PEPEs
+
+=> Introduction to IdentityServer for ASP.NET Core - coderschool - 2.11h
+https://www.youtube.com/watch?v=J5p72gTdx_M
+
+=====================================================
+ # SOLID
+=====================================================
+https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example
+https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
+
+=> SOLID + DP - MVS - 57m - S
+https://www.youtube.com/watch?v=agkWYPUcLpg
+
+=> Solid Design Principles - kudvenkat - 6 - S1
+https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme
+
+=> Learning SOLID Principles Using C# - Infragistics - 50m
+https://www.youtube.com/watch?v=Qm8vWgr37OYs
+
+=> SOLID principal - IAmTimCorey - 5
+https://www.youtube.com/watch?v=5RwhyZnVRS8&list=PLLWMQd6PeGY3ob0Ga6vn1czFZfW6e-FLr
+
+=> SOLID Principles - craigctp - 5
+https://www.youtube.com/watch?v=nyxaChZ1row&list=PL4CE9F710017EA77A
+
+=====================================================
  # Design Patterns
------------------------------------------------------
- => Solid Design Patterns for Mere Mortals - MVS - 53m
- https://www.youtube.com/watch?v=_vlMjdFxdng
+=====================================================
 
- => SOLID Design Patterns - MVS - 57m
- https://www.youtube.com/watch?v=agkWYPUcLpg
+=> Design Patterns: Singleton - MVS - 16m - S
+https://www.youtube.com/watch?v=sbML3xFHRbI
 
- => Solid Design Principles - kudvenkat - 6
- https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme
+=> Design Patterns: Factories - MVS - 25m
+https://www.youtube.com/watch?v=JEk7B_GUErc
 
- => Design Patterns: Singleton - MVS - 16m
- https://www.youtube.com/watch?v=sbML3xFHRbI
+=> Design Patterns: Decorator - MVS - 17m
+https://www.youtube.com/watch?v=6PPMR0GWrZQ
 
- => Design Patterns: Factories - MVS - 25m
- https://www.youtube.com/watch?v=JEk7B_GUErc
+=> Design Patterns: Observer and Publish-Subscribe - MVS - 18m
+https://www.youtube.com/watch?v=72bdaDl4KLM
 
- => Design Patterns: Decorator - MVS - 17m
- https://www.youtube.com/watch?v=6PPMR0GWrZQ
+=> Design Patterns: Command/Memento - MVS - 31m
+https://www.youtube.com/watch?v=zRbHlDeon3E
 
- => Design Patterns: Observer and Publish-Subscribe - MVS - 18m
- https://www.youtube.com/watch?v=72bdaDl4KLM
+=> Design Patterns: Strategy - MVS - 13m
+https://www.youtube.com/watch?v=QZIvlny1Onk
 
- => Design Patterns: Command/Memento - MVS - 31m
- https://www.youtube.com/watch?v=zRbHlDeon3E
+=> Design Patterns: Adapter and Façade - MVS - 22m
+https://www.youtube.com/watch?v=XYa0rmRMZ1Q
 
- => Design Patterns: Strategy - MVS - 13m
- https://www.youtube.com/watch?v=QZIvlny1Onk
+=> Design Patterns: Template Method - MVS - 14m
+https://www.youtube.com/watch?v=MfAvs0n9uMs
 
- => Design Patterns: Adapter and Façade - MVS - 22m
- https://www.youtube.com/watch?v=XYa0rmRMZ1Q
+=> Design Patterns tutorial for beginners - kudvenkat - 21
+https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd
 
- => Design Patterns: Template Method - MVS - 14m
- https://www.youtube.com/watch?v=MfAvs0n9uMs
+=> Popular Software design pattern & C# videos - 194
+https://www.youtube.com/watch?v=YDobmucohqk&list=PLaCTP9-enG5ZxUZqyHq1-SGgi2wJIRi2v
 
- => Design Patterns tutorial for beginners - kudvenkat - 21
- https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd
-
------------------------------------------------------
+=====================================================
  # Entity Framework
------------------------------------------------------
+=====================================================
  => Entity Framework Tutorials - Programming with Mosh - 2
  https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ
 
@@ -133,9 +173,32 @@
  => What's New in Entity Framework Core 2.0 - MVS - 53m
  https://www.youtube.com/watch?v=0pUVC3trvHc
 
------------------------------------------------------
- # Interview Preparation
------------------------------------------------------
+=====================================================
+ # Unit Test
+=====================================================
+=> Unit Testing Tutorial for C# Developers - Mosh - 44m
+https://www.youtube.com/watch?v=HYrXogLj7vg
+
+=> TDD basic with C# - Jeremy Clack - 23m
+https://www.youtube.com/watch?v=l4xhTq4qmC0
+
+=> Mordern Dev Practices Unit Testing high - MVS - 1.4m
+https://www.youtube.com/watch?v=4averylLdjQ
+
+=====================================================
+ # Clean Code
+=====================================================
+=> Clean Code: Learn to write clean - Programming with Mosh - 34m - S
+https://www.youtube.com/watch?v=5koPpYVa020
+
+=====================================================
+ # MCP
+=====================================================
+https://mva.microsoft.com/en-us/training-courses/mastering-microsoft-certification-exam-prep-16601?l=6zyNZ06lC_4506218965
+
+=====================================================
+ # .NET Interview Preparation
+=====================================================
  => C# interview questions and answers - kudvenkat - 14
  https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
 

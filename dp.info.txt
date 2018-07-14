@@ -1,0 +1,39 @@
+
+# SOLID Design Principal
+  S => Single Responsibility Principal: Do one thing and do it well.
+  O => Open Closed Principal: Be open for extention, Closed for modification.
+  L => Liskov Substitution Principal: Derived classes can stand in for base classes.
+  I => Interface Segregation Principal: Make interface fine grained and clien specific.
+  D => Dependency Inversion: Depend on abstractions, not concrete implementations.
+
+# Creational Design Patterns
+
+ 1. Singleton: Ensures class has only one instance with a single access point.
+
+ 2. Simple Factory: Encapsulates class creation in one place.
+
+ 3. Factory Method: Uses method to create objects without specifinig the exact class.
+
+ 4. Abstract Factory: Encapsulates a group of individual factories with a common thrme without specifying their concrete class.
+
+ 5. Prototype: Clone an instance to make more instances - usually for performance reasons.
+
+# Structural Design Patterns
+
+ 1. Adapter: Converts the interface of a class into another interface the client expexts.
+
+ 2. Facade: Provides a simplified interface to a larger body of code.
+
+ 3. Decorator: Attaches additional repponsibilites to an object at runtime without effecting other object of the same class.
+
+# Behavioral Design Patterns
+
+ 1. Command: Encapsulates a request as an object.
+
+ 2. Startegy: Encapsulates an algorithm inside a class.
+
+ 3. Observer/Pub-Sub: Messaging pattern.
+
+ 4. Memento pattern: Used to restore an object to its previous state.
+
+ 5. Template Method: Defines skeleton of an algorithm, deferring some steps to sub classes.

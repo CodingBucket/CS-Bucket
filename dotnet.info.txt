@@ -32,8 +32,3 @@
  => IdentityServer4
 ------------------------------
  http://docs.identityserver.io/en/dev/quickstarts/0_overview.html
-
- 1. Create a .NET core empty project.
- 2. Install IdentityServer4 nuget package.
- 3. Modify Startup.cs file.
- 4. Modify hosting from project properties.
