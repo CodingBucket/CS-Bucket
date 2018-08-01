@@ -1,11 +1,4 @@
-=> C# 53 (Func, Reflaction, async), OOP
-=> ASP.NET Core, EF(M), SQL - SOLID, DP, SA
-=> DI, IoC, SignalR, IS4, Repository
 
-=> PS [URI-222, HE-11, UVa-47, SO-56], DS, AL (Friday)
-=> JS, Angular, Vue, SDLC
-
-=> C# 53, SOLID, DI
 =====================================================
    C#
 =====================================================
