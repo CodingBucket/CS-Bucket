@@ -1,30 +1,30 @@
-=> PS [UVa-47, HE-11, URI-215, SO-56], DS, AL
-=> C# 50 (LINQ, Lambdas, Func)
-=> ASP.NET Core, EF, SQL, IS4, MCP - OOP, DP, SOLID, SA, SDLC
- 
-=> SOLID, SignalR, DI(Unity/Autofac/Ninject)
-=> ASP.NET Core API, Entity Framework, Migrations
-=> Unit Test, TDD, OData
-=> JavaScript, Angular
+=> C# 53 (Func, Reflaction, async), OOP
+=> ASP.NET Core, EF(M), SQL - SOLID, DP, SA
+=> DI, IoC, SignalR, IS4, Repository
 
+=> PS [URI-222, HE-11, UVa-47, SO-56], DS, AL (Friday)
+=> JS, Angular, Vue, SDLC
+
+=> C# 53, SOLID, DI
 =====================================================
    C#
 =====================================================
- https://docs.microsoft.com/en-us/dotnet/index
- https://www.tutorialspoint.com/csharp/index.htm
- https://www.javatpoint.com/c-sharp-tutorial
+https://www.csharpstar.com/
+https://docs.microsoft.com/en-us/dotnet/index
+https://www.tutorialspoint.com/csharp/index.htm
+https://www.javatpoint.com/c-sharp-tutorial
 
- => C# Fundamentals for Absolute Beginners - coderschool - 8h - S
- https://www.youtube.com/watch?v=nRjHGKaJY8M 
+=> C# Fundamentals for Absolute Beginners - coderschool - 8h - S
+https://www.youtube.com/watch?v=nRjHGKaJY8M 
 
- => C# Basics for Beginners Series - AvetisG Programming - 51 - S
- https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_sumeqIEYJ5GWZqd
+=> C# Basics for Beginners Series - AvetisG Programming - 51 - S
+https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_s umeqIEYJ5GWZqd
 
- => C#.NET Tutorials - Programming with Mosh - 11 - S
- https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
+=> C#.NET Tutorials - Programming with Mosh - 11 - S
+https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
 
- => C# tutorial - Fox Learn - 294
- https://www.youtube.com/watch?v=yqyXrDp6Id0&list=PL-EU0JUF-XD1saII7gONUxMIbk13XkmCV
+=> C# tutorial - Fox Learn - 294
+https://www.youtube.com/watch?v=yqyXrDp6Id0&list=PL-EU0JUF-XD1saII7gONUxMIbk13XkmCV
 
  => C# tutorial for beginners - kudvenkat - 102
  https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
@@ -37,8 +37,6 @@
 =====================================================
 https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
 https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
-
-=> Building Angular and ASP.NET Core Apps with Authentication - 6/50
 
 => .NET Core2 API - coderschool - 1h - S
 https://www.youtube.com/watch?v=aIkpVzqLuhA
@@ -58,11 +56,8 @@ https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQ
 =====================================================
  # .NET Basic & Architecture
 =====================================================
-=> Dependency Injection - MVS - 45m
+=> Dependency Injection - MVS - 45m - S
 https://www.youtube.com/watch?v=QtDTfn8YxXg
-
-=> Microservice architecture with ASP.NET Core - MVS - 27m
-https://www.youtube.com/watch?v=2ooo-igyTrs
 
 =====================================================
  # SignalR
@@ -70,7 +65,7 @@ https://www.youtube.com/watch?v=2ooo-igyTrs
 => SignalR .NET Core: - MVS - 1h
 https://www.youtube.com/watch?v=1TrttIkbs6c
 
-=> Consuming SignalR for AspNet Core from Angular - Ajden Towfeek - 20m
+=> Consuming SignalR - Ajden Towfeek - 20m - S
 https://www.youtube.com/watch?v=R3UJjSAH6bM
 
 =====================================================
@@ -93,6 +88,9 @@ https://www.youtube.com/watch?v=X6a9bjNutEw&list=PLBpdDIHvafa-2WHiwRa-Q0YGrN34PE
 
 => Introduction to IdentityServer for ASP.NET Core - coderschool - 2.11h
 https://www.youtube.com/watch?v=J5p72gTdx_M
+
+=> OAuth 2.0 and OpenID Connect - Okta for Developers - 1.2h
+https://www.youtube.com/watch?v=996OiexHze0
 
 =====================================================
  # SOLID
@@ -119,7 +117,7 @@ https://www.youtube.com/watch?v=nyxaChZ1row&list=PL4CE9F710017EA77A
  # Design Patterns
 =====================================================
 
-=> Design Patterns: Singleton - MVS - 16m - S
+=> Design Patterns: Singleton - MVS - 16m - SP
 https://www.youtube.com/watch?v=sbML3xFHRbI
 
 => Design Patterns: Factories - MVS - 25m
@@ -202,5 +200,19 @@ https://mva.microsoft.com/en-us/training-courses/mastering-microsoft-certificati
  => C# interview questions and answers - kudvenkat - 14
  https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
 
+=====================================================
+ # Data Structures and Algorithms
+=====================================================
+=> https://www.hackerearth.com/practice/
+=> https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+=> https://www.geeksforgeeks.org/data-structures/
+=> https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
+=> Data Structures and Algorithms in Bangla - Tamim Shahriar - 23
+https://www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
 
+=> GeeksforGeeks
+https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?view=1&flow=grid
+
+=> HackerRank
+https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos

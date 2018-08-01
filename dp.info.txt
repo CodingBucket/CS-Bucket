@@ -6,6 +6,33 @@
   I => Interface Segregation Principal: Make interface fine grained and clien specific.
   D => Dependency Inversion: Depend on abstractions, not concrete implementations.
 
+  => Single Responsibility Principal: 
+     A class should have only one reason to change.
+
+  => Open Closed Principal: 
+     Software entities such as classes, modules, functions, etc. should be open for extension, but closed for modification.
+
+     Any new functionality should be implemented by adding new classes, attributes and methods, instead of chnaging the 
+     current ones or existing ones.
+
+     The design and writing of the code should be done in a way that new functionality should be added 
+     with minimum changes in the existing code.
+
+     The design should be done in a way to allow the adding of new functionality as new classes, keeping as much as
+     possible existing code unchanged.
+  
+  => Liskov Substitution Principal: 
+     If a program module is using a base class, then the reference to the 
+     base class can be replaced with a derived class without affecting the functionality of the program module.
+
+  => Interface Segregation Principal:
+     Many client specific interface are better than one general purpose interface.
+
+  => Dependency Inversion:
+     Abstraction should not depend on the details whereas the details should depend on astractions.
+
+     High level modules should not depend on low level modules.
+
 # Creational Design Patterns
 
  1. Singleton: Ensures class has only one instance with a single access point.
