@@ -22,8 +22,8 @@
      possible existing code unchanged.
   
   => Liskov Substitution Principal: 
-     If a program module is using a base class, then the reference to the 
-     base class can be replaced with a derived class without affecting the functionality of the program module.
+     If a program is using a base class, then the reference to the base class can be replaced with a derived class 
+     without affecting the functionality of the program module.
 
   => Interface Segregation Principal:
      Many client specific interface are better than one general purpose interface.

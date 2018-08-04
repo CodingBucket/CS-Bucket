@@ -1,4 +1,11 @@
+=> C# 53 (Func, Reflaction, async), OOP
+=> ASP.NET Core, EF(M), SQL - SOLID, DP, SA
+=> DI, IoC, SignalR, IS4, Repository
 
+=> PS [URI-222, HE-11, UVa-47, SO-56], DS, AL (Friday)
+=> JS, Angular, Vue, SDLC
+
+=> C# 53, SOLID, DI, Repository
 =====================================================
    C#
 =====================================================
@@ -94,7 +101,7 @@ https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-
 => SOLID + DP - MVS - 57m - S
 https://www.youtube.com/watch?v=agkWYPUcLpg
 
-=> Solid Design Principles - kudvenkat - 6 - S1
+=> Solid Design Principles - kudvenkat - 6 - S1P
 https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme
 
 => Learning SOLID Principles Using C# - Infragistics - 50m

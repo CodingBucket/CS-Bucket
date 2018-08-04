@@ -4,7 +4,7 @@ using System.Text;
 
 // Single Responsibility Principal: Do one thing and do it well.
 
-namespace Demo.SOLID.SRP
+namespace Demo.SOLID.SingleResponsibility
 {
     interface IUser
     {

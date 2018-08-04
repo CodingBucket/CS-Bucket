@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Demo.SOLID.ISP
+namespace Demo.SOLID.InterfaceSegregation
 {
     class CanonPrinter : IPrintScanContent, IFaxContent, IPrintDuplex
     {       

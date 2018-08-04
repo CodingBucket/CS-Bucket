@@ -4,7 +4,7 @@ using System.Text;
 
 // Interface Segregation Principal: Many client specific interface are better than one general purpose interface.
 
-namespace Demo.SOLID.ISP
+namespace Demo.SOLID.InterfaceSegregation
 {
     interface IPrintScanContent
     {
