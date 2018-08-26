@@ -112,13 +112,7 @@
      will call.
   => Delegates syntax look very much similar to a method with a delegate keyword.
 
-# Repository:
-Mediates between the domain and data mapping layers, acting like an 
-in-memory collection of domain objects.
 
-# Benefits of Repository:
-  => Minimizes duplicate query logic
-  => Decouple your application from persistence frameworks
 
  
 

@@ -1,0 +1,22 @@
+# Repository:
+  Mediates between the domain and data mapping layers, acting like an 
+  in-memory collection of domain objects.
+
+# Benefits of Repository:
+  => Minimizes duplicate query logic
+  => Decouple your application from persistence frameworks
+  => Promotes testability
+
+# Unit of Work:
+  Maintains a list of objects affected by a business transaction and 
+  coordinates the writing out of changes.
+
+# Dependency Injection:
+  DI is a design pattern that removes the dependency from the pogramming code so that it can be
+  easy to mannage and test the application.DI makes our programming code loosely coupled.
+
+# Inversion of Control:
+  Flow of control within the application is not controlled by the application itself, 
+  but rather by the underlying framework. Typically in such an architecture, the application 
+  is written such that it ties into the application framework by handling framework events or
+  plugging in to framework extension points.
