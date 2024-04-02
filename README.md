@@ -1,2 +1,0 @@
-# CsharpBucket
-C# Learning
