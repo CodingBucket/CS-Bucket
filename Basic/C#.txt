@@ -16,31 +16,6 @@
   Static constructor is called only once, no metter how many instances you create.
   Static constructor is called before the instance constructor.
   
-# Pillars of Object Oriented Programming:
-  1. Inheritance.
-  2. Encapsulation.
-  3. Abstraction.
-  4. Polymorphism.
-  
-# Polymorphism:
-  Polymorphism allows you to invoke derived class methods through a base class reference during runtime.
-  In the base class the method is declared as virtual, and in the derived class we override the same method.
-  The virtual keyword indicates, the method can be overridden in any derived class.
-  
-# Method Overriding:
-  In method overriding a base class reference variable pointing to a child class object,
-  will invoke the overridden method in the child class.
-  It is also called Polymorphism.
-
-# Method Hidding:
-  In method overriding a base class reference variable pointing to a child class object,
-  will invoke the hidden  method in the base class.
-  
-# Method Overloadnig:
-  Method overloading allows a class to have multiple methods with the same name, 
-  but differnet types and numbers of paramenter. It is not possiable to overload a function
-  based on the return type of a method.	
-  
 # Auto Implemented Properties:
   If there is no editional logic in the property accessors, then we can make use of auto-implemneted properties introduced in C# 3.0
   Auto-impplemented properties reduce the amount of code that we have to write. When you use auto-implemented properties, 
@@ -112,7 +87,27 @@
      will call.
   => Delegates syntax look very much similar to a method with a delegate keyword.
 
+# Pattern of using Async method:
+  => Use the await keyword before the method call.
+  => Mark the method signature with async.
+  => Return Task or Task<T>
+  => MoreInfo: http://bit.do/async-diagram
 
+# Blocking:
+  When the thread is busy doing staff or waiting on staff.
+  There are two type of blocking:
+  1. CPU bound blocking
+  2. IO bound blocking.
+
+# IEnumerable:
+  If you create an IQueryable, then the query may be converted to sql 
+  and run on the database server 
+
+# IQueryable:
+  If you create an IEnumerable, then all rows will be pulled into 
+  memory as objects before running the query.
+  
+  MoreInfo: https://stackoverflow.com/questions/252785/what-is-the-difference-between-iqueryablet-and-ienumerablet
 
  
 

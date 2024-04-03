@@ -1,0 +1,25 @@
+# Pillars of Object Oriented Programming:
+  1. Inheritance.
+  2. Encapsulation.
+  3. Abstraction.
+  4. Polymorphism.
+  
+# Inhheritence: 
+Inheritance allows a new class to inherit properties and behaviors from an existing class. 
+
+# Encapsulation:
+Encapsulation is a fundamental principle in object-oriented programming (OOP) that involves bundling data (attributes or properties) and methods (functions or behaviors) that operate on the data into a single unit, known as a class. The key idea behind encapsulation is to restrict access to the internal state of an object and to only expose a controlled interface for interacting with that object.
+
+# Polymorphism:
+Polymorphism allows you to invoke derived class methods through a base class reference during runtime.
+In the base class the method is declared as virtual, and in the derived class we override the same method. The virtual keyword indicates, the method can be overridden in any derived class.
+  
+# Method Overriding:
+In method overriding a base class reference variable pointing to a child class object,
+will invoke the overridden method in the child class. It is also called Polymorphism.
+
+# Method Hidding:
+In method overriding a base class reference variable pointing to a child class object, will invoke the hidden  method in the base class.
+  
+# Method Overloadnig:
+Method overloading allows a class to have multiple methods with the same name, but differnet types and numbers of paramenter. It is not possiable to overload a function based on the return type of a method.	
