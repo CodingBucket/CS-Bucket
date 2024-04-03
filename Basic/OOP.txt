@@ -1,14 +1,27 @@
 # Pillars of Object Oriented Programming:
-  1. Inheritance.
-  2. Encapsulation.
-  3. Abstraction.
-  4. Polymorphism.
+1. Inheritance.
+2. Encapsulation.
+3. Abstraction.
+4. Polymorphism.
   
 # Inhheritence: 
 Inheritance allows a new class to inherit properties and behaviors from an existing class. 
 
 # Encapsulation:
-Encapsulation is a fundamental principle in object-oriented programming (OOP) that involves bundling data (attributes or properties) and methods (functions or behaviors) that operate on the data into a single unit, known as a class. The key idea behind encapsulation is to restrict access to the internal state of an object and to only expose a controlled interface for interacting with that object.
+Encapsulation is a fundamental principle of object-oriented programming (OOP) that allows you to bundle data and methods that operate on that data within a single unit, called a class. Encapsulation in C# is achieved through the use of access modifiers and properties.
+
+Access Modifiers: Access modifiers control the visibility and accessibility of class members. The commonly used access modifiers are -
+
+public: The member is accessible from any other code in the same assembly or from derived classes.
+
+private: The member is accessible only from within the same class.
+
+protected: The member is accessible within the same class and by derived classes.
+
+internal: The member is accessible only within the same assembly.
+
+protected internal: The member is accessible within the same assembly or by derived classes.
+
 
 # Polymorphism:
 Polymorphism allows you to invoke derived class methods through a base class reference during runtime.
