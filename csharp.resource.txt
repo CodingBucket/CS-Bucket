@@ -1,6 +1,7 @@
 
-PS  C#  .NET  DB  DevOps  
-OOP  SOLID  DP  SD  UnitTest
+PS  DS  AL  SD 
+C#  .NET  DB  OOP  SOLID 
+DP  AD  UnitTest  DevOps. 
 
 
 =====================================================
