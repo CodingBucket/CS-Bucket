@@ -1,6 +1,5 @@
 
-PS  DS  AL 
-C#  .NET  DB  SD
+PS  C#  CV
 
 
 Concepts:
