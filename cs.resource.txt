@@ -4,11 +4,12 @@ C#  .NET  DB  SD
 
 
 Concepts:
+Coding Prep Video- https://youtu.be/mjZpZ_wcYFg
 https://www.amazon.jobs/en/landing_pages/software-development-topics - Here you can find a summary of the technical topics you should be prepared to address
 https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
 https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
 https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s – Introduction to Big O Notation and Time Complexity
-https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about System design section.
+https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about the System design section.
  
 
 Practice problems:
