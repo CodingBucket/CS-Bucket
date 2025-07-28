@@ -2,15 +2,28 @@
 PS  C#  CV
 
 
-Concepts:
-Coding Prep Video- https://youtu.be/mjZpZ_wcYFg
-https://www.amazon.jobs/en/landing_pages/software-development-topics - Here you can find a summary of the technical topics you should be prepared to address
-https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
-https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
-https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s – Introduction to Big O Notation and Time Complexity
-https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about the System design section.
- 
+=====================================================
+   AWS
+=====================================================
 
+Amazon Coding Sample (SIP) - 15m
+- https://youtu.be/mjZpZ_wcYFg
+
+Here you can find a summary of the technical topics you should be prepared to address
+- https://www.amazon.jobs/en/landing_pages/software-development-topics
+
+Dijkstra's Algorithm - 5m
+- https://www.youtube.com/watch?v=gdmfOwyQlcI
+
+Information on Data Structures and Algorithms
+- https://github.com/kdn251/interviews#graph-algorithms
+
+Introduction to Big O Notation and Time Complexity - 36m
+- https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s
+
+Amazon System Design Preparation - 10m
+- https://www.youtube.com/watch?v=gNQ9-kgyHfo 
+ 
 Practice problems:
 https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
