@@ -2,6 +2,34 @@
 PS  C#  CV
 
 
+
+C#:
+
+Master Design Patterns & SOLID & OOP C# - 12h
+- https://www.youtube.com/watch?v=rylaiB2uH2A
+
+Advanced C# Programming Course - 15h
+- https://www.youtube.com/watch?v=YT8s-90oDC0
+
+
+PS:
+
+Master Technical Interviews - 5h
+- https://www.youtube.com/watch?v=-LVmKNvflnY
+
+Greedy Algorithms Tutorial – 2h
+- https://www.youtube.com/watch?v=bC7o8P_Ste4
+
+Graph Algorithms for Technical Interviews - 2h
+- https://www.youtube.com/watch?v=tWVWeAqZ0WU
+
+Dynamic Programming full course for technical interviews - 5h
+- https://www.youtube.com/watch?v=HBON-ooIygo
+
+Dynamic Programming - Learn to Solve Algorithmic Problems - 7h
+- https://www.youtube.com/watch?v=HBON-ooIygo
+
+
 =====================================================
    AWS
 =====================================================
