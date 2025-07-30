@@ -11,6 +11,9 @@ Master Design Patterns & SOLID & OOP C# - 12h
 Advanced C# Programming Course - 15h
 - https://www.youtube.com/watch?v=YT8s-90oDC0
 
+Learn C# – Full Course - 8h
+- https://www.youtube.com/watch?v=GlGpSQsS8uc&t=8710s
+
 
 PS:
 
