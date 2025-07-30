@@ -32,6 +32,9 @@ Dynamic Programming full course for technical interviews - 5h
 Dynamic Programming - Learn to Solve Algorithmic Problems - 7h
 - https://www.youtube.com/watch?v=HBON-ooIygo
 
+How Dijkstra's Algorithm Works - 8m
+- https://www.youtube.com/watch?v=EFg3u_E6eHU
+
 
 =====================================================
    AWS
