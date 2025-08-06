@@ -1,6 +1,5 @@
 
-PS  C#  CV
-
+PS  C#  CV  -  SD  DO
 
 
 C#:
@@ -34,6 +33,12 @@ Dynamic Programming - Learn to Solve Algorithmic Problems - 7h
 
 How Dijkstra's Algorithm Works - 8m
 - https://www.youtube.com/watch?v=EFg3u_E6eHU
+
+
+DevOps:
+
+Docker Tutorial for beginners - 2h
+- https://www.youtube.com/watch?v=exmSJpJvIPs
 
 
 =====================================================
