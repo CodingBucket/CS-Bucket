@@ -7,14 +7,11 @@ C#:
 Master Design Patterns & SOLID & OOP C# - 12h
 - https://www.youtube.com/watch?v=rylaiB2uH2A
 
-Learn C# – Full Course - 8h
-- https://www.youtube.com/watch?v=GlGpSQsS8uc&t=8710s
-
-C#.NET Tutorials - Programming with Mosh
-- https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
-
 Advanced C#
 - https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2CtW2Q
+
+Learn C# – Full Course - 8h
+- https://www.youtube.com/watch?v=GlGpSQsS8uc&t=8710s
 
 
 PS:
