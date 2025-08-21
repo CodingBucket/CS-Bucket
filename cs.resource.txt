@@ -1,5 +1,5 @@
 
-PS  C#  SD  AD  AP  -  DevOps  Angular
+PS  C#  SD  AP  -  Azure  DevOps  Angular
 
 
 C#:
@@ -18,18 +18,6 @@ PS:
 
 Master Technical Interviews - 5h
 - https://www.youtube.com/watch?v=-LVmKNvflnY
-
-Greedy Algorithms Tutorial – 2h
-- https://www.youtube.com/watch?v=bC7o8P_Ste4
-
-Graph Algorithms for Technical Interviews - 2h
-- https://www.youtube.com/watch?v=tWVWeAqZ0WU
-
-Dynamic Programming full course for technical interviews - 5h
-- https://www.youtube.com/watch?v=HBON-ooIygo
-
-Dynamic Programming - Learn to Solve Algorithmic Problems - 7h
-- https://www.youtube.com/watch?v=HBON-ooIygo
 
 How Dijkstra's Algorithm Works - 8m
 - https://www.youtube.com/watch?v=EFg3u_E6eHU
